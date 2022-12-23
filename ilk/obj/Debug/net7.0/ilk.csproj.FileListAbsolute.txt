@@ -1,0 +1,15 @@
+C:\Users\Tural\source\repos\ilk\ilk\bin\Debug\net7.0\ilk.exe
+C:\Users\Tural\source\repos\ilk\ilk\bin\Debug\net7.0\ilk.deps.json
+C:\Users\Tural\source\repos\ilk\ilk\bin\Debug\net7.0\ilk.runtimeconfig.json
+C:\Users\Tural\source\repos\ilk\ilk\bin\Debug\net7.0\ilk.dll
+C:\Users\Tural\source\repos\ilk\ilk\bin\Debug\net7.0\ilk.pdb
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ilk.csproj.AssemblyReference.cache
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ilk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ilk.AssemblyInfoInputs.cache
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ilk.AssemblyInfo.cs
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ilk.csproj.CoreCompileInputs.cache
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ilk.dll
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\refint\ilk.dll
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ilk.pdb
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ilk.genruntimeconfig.cache
+C:\Users\Tural\source\repos\ilk\ilk\obj\Debug\net7.0\ref\ilk.dll
